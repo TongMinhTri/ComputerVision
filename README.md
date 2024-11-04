@@ -73,7 +73,7 @@ Here are our results obtained from experiments:
 
 ## How to use this project
 
-- Clone this repo: `git clone https://github.com/daoquyan2003/ship-segmentation.git`
+- Clone this repo: `git clone https://github.com/TongMinhTri/ComputerVision.git`
 
 - Make sure Python is installed (Optional: Anaconda `conda create -n airbus` and `conda activate airbus`)
 
